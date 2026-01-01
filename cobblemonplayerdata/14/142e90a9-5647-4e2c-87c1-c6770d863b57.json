@@ -1,0 +1,29 @@
+{
+  "uuid": "142e90a9-5647-4e2c-87c1-c6770d863b57",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "a026c6d2-33a0-4a65-9e3a-cbdef6546acb",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 0,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 0,
+    "totalBattleVictoryCount": 3,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 3,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {},
+    "totalDefeatedCounts": {
+      "cobblemon:hoothoot": 1,
+      "cobblemon:combee": 1,
+      "cobblemon:sentret": 1
+    },
+    "aspectsCollected": {}
+  }
+}
